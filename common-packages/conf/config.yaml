@@ -1,0 +1,19 @@
+{
+
+  "aws":{
+
+    "s3Region":"",
+    "s3BucketName":"",
+    "cdnUrl":""
+
+
+  },
+
+  "apps": {
+
+    "imageapp": {
+      "address": "localhost:9090"
+    }
+  }
+
+}

@@ -1,0 +1,9 @@
+package system
+
+const (
+
+	UPLOAD_FOLDER = "/exp/tbs3/"
+    DEFAULT_DATE_FORMAT = "2006-01-02"
+	DATE_SPECIFIED	 = "2020-11-01"
+	LIMIT_RECORD_FOR_IMAGE_LIST = 12
+)
